@@ -1,0 +1,17 @@
+[
+  {
+    "nombreUsuario": "Christopher",
+    "password": "1234",
+    "roll": "Proveedor"
+  },
+  {
+    "nombreUsuario": "Melvin",
+    "password": "056",
+    "roll": "Cliente"
+  },
+  {
+    "nombreUsuario": "Nike",
+    "password": "1102",
+    "roll": "Empleado"
+  }
+]
